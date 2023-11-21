@@ -1,4 +1,4 @@
-﻿# ItemDrop Lister
+# ItemDrop Lister
 
 This mod provides a simple console command "print_items_to_file" to print all items from all different DLLs loaded
 in-game into 1 file per DLL. All items are categorized (grouped) by the item type.
