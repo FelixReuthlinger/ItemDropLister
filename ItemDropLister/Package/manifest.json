@@ -1,0 +1,10 @@
+﻿{
+  "name": "ItemDropLister",
+  "description": "Simple mod for listing all item drops per dll that contained it",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/FelixReuthlinger/ItemDropLister",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.15.0"
+  ]
+}
